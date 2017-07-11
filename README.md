@@ -15,3 +15,10 @@ It is performed over Yalefaces datasets
 
 3> Using the local binary pattern histogram(LBPH) feature vector  we train our model using any suitable machine learning algorithm and then  apply then predict the matching confidence of our images.
 
+# Requirements in terms of environment
+
+The above project was performed in python language over compiler of version 2.7.12 in 64 bit mode. The most important component of this project was open source tool "OpenCV" version 2.4.13. You will also need to import Pillow, numpy,OS.
+
+# Possible errors
+
+There might be some technical difficulties (like in the installation of numpy or python) that you all may face so just mail the error(how so ever trivial error may be) to my mail id: "ay70415" +"@gmail.com" . Just join them (Did this for security purpose from web crawlers)
